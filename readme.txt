@@ -17,7 +17,6 @@ Ein Raster-Overlay für [UpFront](https://upfront.n3rds.work/upfront-themes/) mi
 Nur Aktivierung nötig, absofort hast Du ein Deutlich markanteres Raster im UpFront Editor/UpFront Builder
 
 [POWERED BY PSOURCE](https://n3rds.work/psource_kategorien/psource-plugins/)
-Online Geld verdienen macht dieses mächtige Leichtgewicht von eCommerce Plugin im Nu Kinderleicht.
 
 [Projektseite](https://upfront.n3rds.work/upfront-framework/upfront-builder/upfront-raster-erweiterung/)
 [Supportforum](https://upfront.n3rds.work/upfront-framework/upfront-builder/upfront-raster-erweiterung#forum)
