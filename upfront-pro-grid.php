@@ -10,6 +10,14 @@
  * License URI:       LICENSE
  */
 
+require 'psource/psource-plugin-update/psource-plugin-updater.php';
+use Psource\PluginUpdateChecker\v5\PucFactory;
+$MyUpdateChecker = PucFactory::buildUpdateChecker(
+	'https://n3rds.work//wp-update-server/?action=get_metadata&slug=upfront-pro-grid', 
+	__FILE__, 
+	'upfront-pro-grid' 
+);
+
 if ( ! defined( 'ABSPATH' ) ) exit;
 
 function upg_enqueue() {
